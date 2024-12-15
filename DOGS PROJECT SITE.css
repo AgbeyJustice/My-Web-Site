@@ -1,0 +1,43 @@
+/*comment*/
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("https://shorturl.at/PHau0");
+  background-size: cover;
+}
+h1 {
+  text-align: center;
+  background-color: rgb(112, 163, 112);
+  color: antiquewhite;
+}
+.head {
+  text-align: center;
+  background-color: rgb(231, 198, 203);
+  color: white;
+}
+.clm {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.round.img {
+  display: flex;
+  height: 300px;
+  border-radius: 50%;
+}
+.center.text {
+  text-align: center;
+}
+.round2.img {
+  display: flex;
+  height: 300px;
+}
+.second.head {
+  background-color: rgb(104, 168, 136);
+  color: rgb(235, 229, 229);
+}
+.size {
+  width: 400px;
+}
